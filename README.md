@@ -1,4 +1,8 @@
-# logo-maker
+# SVG Logo Maker
+
+## Description
+
+This application creates an svg logo given a simple shape (circle, triangle, or square), a color, and 1-3 initials.
 
 ## GitHub Repo
 
